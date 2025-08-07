@@ -9,9 +9,6 @@ Research Intern @ CVIT | IIIT-H<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=simran32909&theme=ocean_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=simran32909&theme=ocean_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=simran32909&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=simran32909&icon=0&color=12)](https://visitcount.itsvg.in)
 
